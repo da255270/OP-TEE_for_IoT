@@ -1,1 +1,1 @@
-# OP-TEE_for_IoT
+# Trusted Remote Object Storage sYstem (TROSY)
